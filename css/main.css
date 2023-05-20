@@ -1,6 +1,6 @@
 section {
     width: 100%;
-    height: 400px;
+    height: 610px;
     margin-top: 180px;
 }
 
@@ -25,7 +25,7 @@ span {
     left: 300px;
 }
 
-.grid-container {
+/**.grid-container {
     width: 1000px;
     height:85px ;
     position: relative;
@@ -76,7 +76,24 @@ span {
     position: relative;
     left: 200px;
     display: flex;
-} 
+} **/
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    width: 1000px;
+    height:550px ;
+    position: relative;
+    left: 200px;
+    font-size: 5px;
+    grid-gap: 10px;
+}
+.items {
+    background-color: lightgray;
+    padding: 5px;
+    text-align: center;
+}
+
 
 .ab {
     width: 100%;
