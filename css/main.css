@@ -25,58 +25,6 @@ span {
     left: 300px;
 }
 
-/**.grid-container {
-    width: 1000px;
-    height:85px ;
-    position: relative;
-    left: 200px;
-    display: flex;
-} 
-
-.grid-1 {
-    background-color: lightgrey;
-    height: 80px;
-    flex-basis: 250px;
-}
-.grid-2 {
-    background-color: lightgrey;
-    height: 80px;
-    flex-basis: 250px;
-    margin-left: 7px;
-}
-.grid-3 {
-    background-color: lightgrey;
-    height: 80px;
-    flex-basis: 250px;
-    margin-left: 7px;
-}
-.grid-4 {
-    background-color: lightgrey;
-    height: 80px;
-    flex-basis: 250px;
-    margin-left: 7px;
-}
-
-.img {
-    width: 130px;
-    align-items: center;
-}
-
-.grid-container-1 {
-    width: 1000px;
-    height:85px;
-    position: relative;
-    left: 200px;
-    display: flex;
-} 
-
-.grid-container-2 {
-    width: 1000px;
-    height: 80px;
-    position: relative;
-    left: 200px;
-    display: flex;
-} **/
 
 .container {
     display: grid;
