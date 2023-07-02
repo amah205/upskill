@@ -155,7 +155,7 @@ h2 {
 } */
 /*MOBILE VERSION*/
 
-@media (max-width:600px) {
+@media only screen (max-width:600px) {
     
     header {
         width: 100%;
