@@ -42,6 +42,11 @@ span {
     text-align: center;
 }
 
+.wrapper-main{
+    width: 1400px;
+    margin: 0 auto;
+}
+
 
 .ab {
     width: 100%;
@@ -218,6 +223,11 @@ span {
 
 
     /*SECTIOM 2*/
+
+    .wrapper-main{
+        width: 100%;
+
+    }
 
     .ab {
         width: 100%;
